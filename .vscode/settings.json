@@ -1,0 +1,8 @@
+{
+    "editor.acceptSuggestionOnEnter": "smart",
+    "emmet.triggerExpansionOnTab": true,
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "emmet.preferences": {
+    
+    }
+}
